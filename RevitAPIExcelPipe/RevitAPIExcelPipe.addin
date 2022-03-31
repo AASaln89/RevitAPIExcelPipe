@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIExcelPipe.dll"</Assembly>
+    <AddInId>14220249-152E-4B51-B288-BE3374662AEA</AddInId>
+    <FullClassName>RevitAPIExcelPipe.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>RevitAPIExcelPipe</Text>
+  </AddIn>
+</RevitAddIns>
